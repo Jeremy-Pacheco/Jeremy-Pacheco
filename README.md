@@ -5,10 +5,15 @@
 ---
 <div align="center">
 
-![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
+  ![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
 
 </div>
 
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&layout=compact)
+  
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco)](https://github.com/Jeremy-Pacheco/github-readme-stats)
 -->
