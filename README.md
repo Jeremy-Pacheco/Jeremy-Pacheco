@@ -18,6 +18,7 @@
 <span>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
@@ -26,12 +27,14 @@
 
 <h4>🥅 Other Tools and Technologies </h4>
 <span>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 
 </span>
 
@@ -43,17 +46,10 @@
 
 ## GitHub Stats
 ---
-<div align="center">
-
-  ![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
-
-</div>
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&layout=compact)
-  
-</div>
+<p align= "center">
+  <img height= "165" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&theme=dark&show_icons=true&include_all_commits=true" />
+  <img height= "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&theme=dark&layout=compact" />
+</p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco)](https://github.com/Jeremy-Pacheco/github-readme-stats)
 -->
