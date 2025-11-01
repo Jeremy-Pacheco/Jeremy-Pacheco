@@ -38,24 +38,14 @@
 
 </span>
 
-
-
-
-
-
-
 ## GitHub Stats
----
+
 <p align= "center">
   <img height= "165" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&theme=dark&show_icons=true&include_all_commits=true" />
   <img height= "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&theme=dark&layout=compact" />
 </p>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco)](https://github.com/Jeremy-Pacheco/github-readme-stats)
--->
 
 
-+
 
 
 <!--
