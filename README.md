@@ -9,9 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco)](https://github.com/Jeremy-Pacheco/github-readme-stats)
 -->
 
-<a href="https://github.com/Jeremy-Pacheco/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark" />
-</a>
+
 
 
 
