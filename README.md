@@ -41,5 +41,4 @@
 <p align= "center">
   <img height= "165" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&theme=dark&show_icons=true&include_all_commits=true" />
   <img height= "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&theme=dark&layout=compact" />
-  <img height = "350" src="https://nirzak-streak-stats.vercel.app/?user=Jeremy-Pacheco&theme=dark&hide_border=false" />
 </p>
