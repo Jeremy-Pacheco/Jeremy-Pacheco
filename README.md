@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Jeremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></br>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a **Full Stack Web Developer** focused on building modern, scalable, and user-friendly web applications.  
-I work with **React, Laravel, Node.js, and Express**, developing REST APIs, authentication systems, and responsive UIs.
+I’m a **Full Stack Web Developer** currently studying **2nd year of Web Applications Development (DAW)**.  
+I focus on building modern, scalable, and user-friendly web applications using **React, Laravel, Node.js, and Express**.  
 
-I enjoy writing clean code, collaborating in team projects, and continuously learning new technologies to improve my skills.
-
+I enjoy writing clean code, collaborating in team projects, and continuously learning new technologies.
 
 ## My Skills Include
 
