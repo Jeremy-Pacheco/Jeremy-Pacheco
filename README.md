@@ -48,10 +48,14 @@ I enjoy writing clean code, collaborating in team projects, and continuously lea
 🌍 AWTC – Volunteer Platform (Group Project)</br>
 AWTC is a volunteer web application that allows users to find and join volunteering projects across Gran Canaria. </br>
 🔗 Repository: [A will to change](https://github.com/Jeremy-Pacheco/AWTC)</br>
-🔗 Live Demo: [A will to change](https://awilltochange.me/)</br>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awilltochange.me/)
+</br>
+
 📌 Expenses-Laravel – Multi-User Expense Manager</br>
 Expenses-Laravel is a Laravel web application that lets multiple users securely manage their personal expenses with full CRUD functionality. Each user can register, log in, and only see their own expense records.</br>
 🔗 Repository: [Expenses-Laravel](https://github.com/Jeremy-Pacheco/Expenses-Laravel)</br>
+
 🧩 BambasReact – React App with Interactive Map</br>
 BambasReact is a React application showcasing an interactive UI with integrated map functionality and dynamic components.</br>
 🔗 Repository: [BambasReact](https://github.com/Jeremy-Pacheco/ProjectReact)</br>
