@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></br>
+<h1 align="center">Hi, I'm Jéremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></br>
 
 ## 👨‍💻 About Me
 
@@ -65,7 +65,7 @@ BambasReact is a React application showcasing an interactive UI with integrated 
 You can reach me through the following channels:
 
 - ✉️ **Email:** [Send me an email](https://mail.google.com/mail/?view=cm&to=pachecoonajeremypaul@gmail.com)  
-- 💼 **LinkedIn:** [Jeremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecooña)  
+- 💼 **LinkedIn:** [Jéremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecooña)  
 - 🐙 **GitHub:** [@Jeremy-Pacheco](https://github.com/Jeremy-Pacheco)  
 
 I’m open to **collaborations, interesting projects, and job opportunities**.
