@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Web Developer** currently studying **2nd year of Web Applications Development (DAW)**.  
+I’m a **Full Stack Web Developer**, soon to graduate from **2nd year of Web Applications Development (DAW)**.  
 I focus on building modern, scalable, and user-friendly web applications using **React, Laravel, Node.js, and Express**.  
 
 I enjoy writing clean code, collaborating in team projects, and continuously learning new technologies.
