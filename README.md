@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm Jeremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi, I'm Jeremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></br>
+
+### 👨‍💻 About Me
+
+I’m a **Full Stack Web Developer** focused on building modern, scalable, and user-friendly web applications.  
+I work with **React, Laravel, Node.js, and Express**, developing REST APIs, authentication systems, and responsive UIs.
+
+I enjoy writing clean code, collaborating in team projects, and continuously learning new technologies to improve my skills.
+
 
 ## My Skills Include
 
@@ -34,11 +42,29 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 </span>
 
-## GitHub Stats
+## Projects
+🌍 AWTC – Volunteer Platform (Group Project)</br>
+AWTC is a volunteer web application that allows users to find and join volunteering projects across Gran Canaria. </br>
+🔗 Repository: [A will to change](https://github.com/Jeremy-Pacheco/AWTC)</br>
+🔗 Live Demo: [A will to change](https://awilltochange.me/)</br>
+📌 Expenses-Laravel – Multi-User Expense Manager</br>
+Expenses-Laravel is a Laravel web application that lets multiple users securely manage their personal expenses with full CRUD functionality. Each user can register, log in, and only see their own expense records.</br>
+🔗 Repository: [Expenses-Laravel](https://github.com/Jeremy-Pacheco/Expenses-Laravel)</br>
+🧩 BambasReact – React App with Interactive Map</br>
+BambasReact is a React application showcasing an interactive UI with integrated map functionality and dynamic components.</br>
+🔗 Repository: [BambasReact](https://github.com/Jeremy-Pacheco/ProjectReact)</br>
 
-<p align= "center">
-  <img height= "165" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&theme=dark&show_icons=true&include_all_commits=true" />
-  <img height= "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Pacheco&theme=dark&layout=compact" />
-</p>
+## 📫 Contact
+
+You can reach me through the following channels:
+
+- ✉️ **Email:** [Send me an email](https://mail.google.com/mail/?view=cm&to=pachecoonajeremypaul@gmail.com)  
+- 💼 **LinkedIn:** [Jeremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecooña)  
+- 🐙 **GitHub:** [@Jeremy-Pacheco](https://github.com/Jeremy-Pacheco)  
+
+I’m open to **collaborations, interesting projects, and job opportunities**.
+
+
