@@ -67,8 +67,7 @@ BambasReact is a React application showcasing an interactive UI with integrated 
 You can reach me through the following channels:
 
 - ✉️ **Email:** [Send me an email](https://mail.google.com/mail/?view=cm&to=pachecoonajeremypaul@gmail.com)  
-- 💼 **LinkedIn:** [Jéremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecooña)  
-- 🐙 **GitHub:** [@Jeremy-Pacheco](https://github.com/Jeremy-Pacheco)  
+- 💼 **LinkedIn:** [Jéremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecooña)    
 
 I’m open to **collaborations, interesting projects, and job opportunities**.
 
