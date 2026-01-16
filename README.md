@@ -69,6 +69,8 @@ Expenses-Laravel is a Laravel web application that lets multiple users securely 
 BambasReact is a React application showcasing an interactive UI with integrated map functionality and dynamic components.</br>
 🔗 Repository: [BambasReact](https://github.com/Jeremy-Pacheco/ProjectReact)</br>
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bambasinc-38c95.web.app/)
+
 ## 📫 Contact
 
 You can reach me through the following channels:
