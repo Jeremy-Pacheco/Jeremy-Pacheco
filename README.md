@@ -14,7 +14,7 @@ I enjoy writing clean code, collaborating in team projects, and continuously lea
 - Adaptability & flexibility  
 - Time management  
 
-## My Skills Include
+## ​🛠️ My Skills Include
 
 <h4>📋 Languages </h4>
 <span> 
@@ -53,7 +53,7 @@ I enjoy writing clean code, collaborating in team projects, and continuously lea
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 </span>
 
-## Projects
+## 🚧 Projects
 🌍 AWTC – Volunteer Platform (Group Project)</br>
 AWTC is a volunteer web application that allows users to find and join volunteering projects across Gran Canaria. </br>
 🔗 Repository: [A will to change](https://github.com/Jeremy-Pacheco/AWTC)</br>
@@ -80,4 +80,7 @@ You can reach me through the following channels:
 
 I’m open to **collaborations, interesting projects, and job opportunities**.
 
+## 🏆 Github Stats
+
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
 
