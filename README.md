@@ -80,6 +80,3 @@ You can reach me through the following channels:
 
 I’m open to **collaborations, interesting projects, and job opportunities**.
 
-## 🏆 Github Stats
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
