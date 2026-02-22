@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jéremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></br>
+<h1 align="center">Hi, I'm Jéremy Pacheco<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></br>
 
 ## 👨‍💻 About Me
 
