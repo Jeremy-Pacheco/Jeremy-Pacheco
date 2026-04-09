@@ -61,15 +61,17 @@ AWTC is a volunteer web application that allows users to find and join volunteer
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awilltochange.me/)
 </br>
 
-📌 Expenses-Laravel – Multi-User Expense Manager</br>
-Expenses-Laravel is a Laravel web application that lets multiple users securely manage their personal expenses with full CRUD functionality. Each user can register, log in, and only see their own expense records.</br>
-🔗 Repository: [Expenses-Laravel](https://github.com/Jeremy-Pacheco/Expenses-Laravel)</br>
+📌 Sustainable Island (Group Project)</br>
+A website that shows you nearby water sources. </br>
+🔗 Repository: [SustainableIsland](https://github.com/ElMasue/The-Sustainable-island-2026-T4)</br>
 
-🧩 BambasReact – React App with Interactive Map</br>
-BambasReact is a React application showcasing an interactive UI with integrated map functionality and dynamic components.</br>
-🔗 Repository: [BambasReact](https://github.com/Jeremy-Pacheco/ProjectReact)</br>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sustainable-island-35e99.web.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bambasinc-38c95.web.app/)
+🧩 Donate blood – Svelte App </br>
+This is a Svelte application that provides information for prospective blood donors and lists blood types and the locations of hospitals where you can donate blood. </br>
+🔗 Repository: [donate-Blood](https://github.com/Jeremy-Pacheco/donate-Blood)</br>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeremy-pacheco.github.io/bloodDonate/)
 
 ## 📫 Contact
 
