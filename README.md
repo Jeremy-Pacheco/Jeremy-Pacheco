@@ -52,12 +52,6 @@ I enjoy writing clean code, collaborating in team projects, and continuously lea
 </span>
 
 ## 🚧 Projects
-🌍 AWTC – Volunteer Platform (Group Project)</br>
-AWTC is a volunteer web application that allows users to find and join volunteering projects across Gran Canaria. </br>
-🔗 Repository: [A will to change](https://github.com/Jeremy-Pacheco/AWTC)</br>
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awilltochange.me/)
-</br>
 
 📌 Sustainable Island (Group Project)</br>
 A website that shows you nearby water sources. </br>
