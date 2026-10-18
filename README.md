@@ -2,10 +2,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Web Developer**, soon to graduate from **2nd year of Web Applications Development (DAW)**.  
-I focus on building modern, scalable, and user-friendly web applications using **React, Laravel, Node.js, and Express**.  
+I’m a **Full Stack Web Developer** with a degree in **Web Application Development (DAW)**, currently studying Computer Engineering.
 
-I enjoy writing clean code, collaborating in team projects, and continuously learning new technologies.  
+I enjoy building web applications from concept to implementation, working on both frontend and backend development. I have experience with technologies such as **React, Svelte, JavaScript, TypeScript, Node.js and Express**, and I’m always looking for ways to improve my skills and explore new technologies.
+
+Throughout my projects, I’ve worked on developing interactive user interfaces, building APIs, writing tests, and creating applications that are maintainable, efficient, and easy to use. I also enjoy solving problems, learning through hands-on experience, and collaborating with others to bring ideas to life.
+
+I consider myself a **proactive, organized, and eager-to-learn person** who enjoys solving problems and taking on new challenges. I enjoy learning through hands-on experience, exploring new technologies, and collaborating with others to turn ideas into functional projects.
+
+
 
 ## 🧠 Soft Skills
 
