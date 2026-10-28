@@ -65,7 +65,7 @@ A website that shows you nearby water sources. </br>
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sustainable-island-35e99.web.app/)
 
 🧩 Donate blood – Svelte App </br>
-This is a Svelte application that provides information for prospective blood donors and lists blood types and the locations of hospitals where you can donate blood. </br>
+This is a Svelte application that provides information for prospective blood donors and lists blood types and the locations of hospitals where you can donate blood in Gran Canaria. </br>
 🔗 Repository: [donate-Blood](https://github.com/Jeremy-Pacheco/donate-Blood)</br>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeremy-pacheco.github.io/donateBlood/)
