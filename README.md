@@ -52,12 +52,6 @@ I consider myself a **proactive, organized, and eager-to-learn person** who enjo
 
 ## 🚧 Projects
 
-📌 Sustainable Island (Group Project)</br>
-A website that shows you nearby water sources. </br>
-🔗 Repository: [SustainableIsland](https://github.com/ElMasue/The-Sustainable-island-2026-T4)</br>
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sustainable-island-35e99.web.app/)
-
 🧩 Donate blood – Svelte App </br>
 This is a Svelte application that provides information for prospective blood donors and lists blood types and the locations of hospitals where you can donate blood in Gran Canaria. </br>
 🔗 Repository: [donate-Blood](https://github.com/Jeremy-Pacheco/donate-Blood)</br>
