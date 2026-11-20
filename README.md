@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jéremy Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://jeremypacheco.es/"><img src="https://img.shields.io/badge/Portfolio-jeremypacheco.es-09090b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-</p>
+</p> -->
 
 ## About Me
 
