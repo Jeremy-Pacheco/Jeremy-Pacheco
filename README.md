@@ -54,27 +54,12 @@ Web app for managing volunteer projects. Volunteers can register, sign up for pr
 <sub>React · TypeScript · Express · Sequelize · MySQL</sub>
 
 </td>
-<td width="50%" valign="top">
 
-**[Expenses-Laravel](https://github.com/Jeremy-Pacheco/Expenses-Laravel)**<br>
-Multi-user expense manager. Each user signs in and manages their own expenses by category and date, with no access to anyone else's data.<br>
-<sub>PHP · Laravel · Breeze · Tailwind · MySQL</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[NestJS-Microservicios](https://github.com/Jeremy-Pacheco/NestJS-Microservicios)**<br>
-Shop backend split into an HTTP gateway and three TCP microservices for products, cart and checkout.<br>
-<sub>NestJS · TypeScript · pnpm</sub>
-
-</td>
 <td width="50%" valign="top">
 
 **[Litematic Viewer](https://github.com/Jeremy-Pacheco/Litematic)**<br>
-Opens Minecraft `.litematic` files and renders them in 3D in the browser, with no backend. Uses instanced meshes to handle thousands of blocks.<br>
-<sub>React · TypeScript · Three.js</sub>
+3D viewer for Minecraft structures (`.litematic`, `.schem`, `.schematic`) that runs entirely in the browser. Renders with your own Minecraft textures or a resource pack, shows the material list, lets you build layer by layer and handles structures with tens of millions of blocks.<br>
+<sub>Svelte · TypeScript · Three.js</sub>
 
 </td>
 </tr>
