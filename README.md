@@ -72,7 +72,7 @@ Shop backend split into an HTTP gateway and three TCP microservices for products
 </td>
 <td width="50%" valign="top">
 
-**[Litematic Viewer](https://github.com/Jeremy-Pacheco/LitematicViewer)**<br>
+**[Litematic Viewer](https://github.com/Jeremy-Pacheco/Litematic)**<br>
 Opens Minecraft `.litematic` files and renders them in 3D in the browser, with no backend. Uses instanced meshes to handle thousands of blocks.<br>
 <sub>React · TypeScript · Three.js</sub>
 
