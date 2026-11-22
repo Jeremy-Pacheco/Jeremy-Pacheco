@@ -47,37 +47,40 @@ Most of what I build is JavaScript/TypeScript: React or Svelte on the frontend, 
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**[AWTC](https://github.com/Jeremy-Pacheco/AWTC)**<br>
-Web app for managing volunteer projects. Volunteers can register, sign up for projects and contact coordinators. Includes JWT and session auth, role-based access and an interface in English, Spanish and French.<br>
-<sub>React · TypeScript · Express · Sequelize · MySQL</sub>
 
-</td>
+  <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+  **[Litematic Viewer](https://github.com/Jeremy-Pacheco/Litematic)**<br>
+  3D viewer for Minecraft structures (`.litematic`, `.schem`, `.schematic`) that runs entirely in the browser. Renders with your own Minecraft textures or a resource pack, shows the material   list, lets you build layer by layer and handles structures with tens of millions of blocks.<br>
+  <sub>Svelte · TypeScript · Three.js</sub>
 
-**[Litematic Viewer](https://github.com/Jeremy-Pacheco/Litematic)**<br>
-3D viewer for Minecraft structures (`.litematic`, `.schem`, `.schematic`) that runs entirely in the browser. Renders with your own Minecraft textures or a resource pack, shows the material list, lets you build layer by layer and handles structures with tens of millions of blocks.<br>
-<sub>Svelte · TypeScript · Three.js</sub>
+  </td>
+  <td width="50%" valign="top">
 
-</td>
+  **[Donate Blood](https://donaciones.jeremypacheco.es/)**<br>
+  Information for people who want to donate blood: the basics before donating, the different blood types, and the hospitals in Gran Canaria where you can go.<br>
+  <sub>Svelte</sub>
+
+  </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-**[Donate Blood](https://donaciones.jeremypacheco.es/)**<br>
-Information for people who want to donate blood: the basics before donating, the different blood types, and the hospitals in Gran Canaria where you can go.<br>
-<sub>Svelte</sub>
+  <td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+  **[AWTC](https://github.com/Jeremy-Pacheco/AWTC)**<br>
+  Web app for managing volunteer projects. Volunteers can register, sign up for projects and contact coordinators. Includes JWT and session auth, role-based access and an interface in English,     Spanish and French.<br>
+  <sub>React · TypeScript · Express · Sequelize · MySQL</sub>
 
-**[Sustainable Island](https://sustainable-island-35e99.web.app/)**<br>
-Group project that shows nearby water sources.<br>
-<sub>Firebase</sub>
+  </td>
 
-</td>
+  <td width="50%" valign="top">
+
+  **[Sustainable Island](https://sustainable-island-35e99.web.app/)**<br>
+  Group project that shows nearby water sources.<br>
+  <sub>Firebase</sub>
+
+  </td>
 </tr>
 </table>
 
