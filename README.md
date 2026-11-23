@@ -4,6 +4,7 @@
   <a href="https://jeremypacheco.es/"><img src="https://img.shields.io/badge/Portfolio-jeremypacheco.es-09090b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p> -->
 
+
 ## About Me
 
 I'm a **Full Stack Web Developer** with a degree in **Web Application Development (DAW)**, currently studying Computer Engineering.
