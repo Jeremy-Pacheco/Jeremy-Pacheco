@@ -86,9 +86,11 @@ Most of what I build is JavaScript/TypeScript: React or Svelte on the frontend, 
 </table>
 
 ## Contact
-
 You can reach me through the following channels:
 
 - ✉️ **Email:** [Send me an email](mailto:pachecoonajeremypaul@gmail.com)
 - 💼 **LinkedIn:** [Jéremy Paul Pacheco Oña](https://www.linkedin.com/in/jeremypaulpachecoo%C3%B1a)
 - 🌐 **Portfolio:** [jeremypacheco.es](https://jeremypacheco.es/)
+
+## Stats
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Pacheco&show_icons=true&theme=dark)
