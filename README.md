@@ -69,9 +69,9 @@ Most of what I build is JavaScript/TypeScript: React or Svelte on the frontend, 
 
   <td width="50%" valign="top">
 
-  **[AWTC](https://github.com/Jeremy-Pacheco/AWTC)**<br>
-  Web app for managing volunteer projects. Volunteers can register, sign up for projects and contact coordinators. Includes JWT and session auth, role-based access and an interface in English,     Spanish and French.<br>
-  <sub>React · TypeScript · Express · Sequelize · MySQL</sub>
+ **[AWTC V2](https://github.com/Jeremy-Pacheco/AWTC-V2)**<br>
+   Solo rework of a group project: a volunteer management platform with projects, enrollments, reviews, real-      time chat and an admin dashboard. Adds a public demo with one-click accounts for every role, a full security    audit, a new design with dark mode, tests with CI and cloud deployment.<br>
+  <sub>React · TypeScript · Tailwind CSS · Express · Sequelize · MySQL · Socket.IO</sub>
 
   </td>
 
